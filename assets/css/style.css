@@ -85,9 +85,10 @@ h6 {
 
 #header .profile img {
   margin: 15px auto;
-  display: block;
-  width: 120px;
-  border: 8px solid #2c2f3f;
+    display: block;
+    width: 103px;
+    border: 8px solid #2c2f3f;
+    height: 109px;
 }
 
 #header .profile h1 {
@@ -917,7 +918,9 @@ section {
   background: #149ddd;
   color: #fff;
 }
-
+.profile_photo img{
+  border-radius: 20px;
+}
 .contact .php-email-form {
   width: 100%;
   padding: 30px;
